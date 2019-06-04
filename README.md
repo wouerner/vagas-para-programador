@@ -2,7 +2,7 @@
 
 Objetivo desse repositorio e apenas ser um indice atualizado de onde encotrar vagas de trabalho para programadores!
 
-**Inspiração:** Sempre que o infortúnio da vida nos alcança, a demissão, temos que sair atualizando o curriculo e procurando na internet novas oportunidades, emtão decidi documentar todos os locais por onde eu procuro, espero que ajude alguém a gastar menos tempo nas pesquisas do google.
+**Inspiração:** Sempre que o infortúnio da vida nos alcança, a demissão, temos que sair atualizando o curriculo e procurando na internet novas oportunidades, então decidi documentar todos os locais por onde eu procuro, espero que ajude alguém a gastar menos tempo nas pesquisas do google.
 
 
 ## Sites especializado em vagas:
