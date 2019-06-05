@@ -28,8 +28,10 @@ https://www.linkedin.com
 |https://t.me/phpdfvagas |Página |
 |https://t.me/GrupoClubedeVagas|Página|
 
-
-
+## Treinamento e Contratação
+|Nome |Precisa de Cadastro? |
+|:----|:------------------- |
+|[hackerrank](https://www.hackerrank.com/dashboard)| Sim  |
 
 
 PR são muito bem vindos!
