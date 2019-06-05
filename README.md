@@ -16,10 +16,17 @@ Objetivo desse repositorio e apenas ser um indice atualizado de onde encotrar va
 |https://app.revelo.com.br | Sim|
 
 
+## Grupos Github
+
+|Nome |
+|:----|
+|https://github.com/frontendbr/vagas/issues |
+|https://github.com/backend-br/vagas/issues|
+|https://github.com/react-brasil/vagas/issues|
+
 ## Rede Sociais
 
 https://www.linkedin.com
-
 
 ## Telegram
 
@@ -32,6 +39,9 @@ https://www.linkedin.com
 |Nome |Precisa de Cadastro? |
 |:----|:------------------- |
 |[hackerrank](https://www.hackerrank.com/dashboard)| Sim  |
+
+#link com companias  que aceitam trabalho remoto
+https://remoteintech.company/
 
 
 PR são muito bem vindos!
