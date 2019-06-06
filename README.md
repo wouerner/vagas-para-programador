@@ -23,6 +23,7 @@ Objetivo desse repositorio e apenas ser um indice atualizado de onde encotrar va
 |https://github.com/frontendbr/vagas/issues |
 |https://github.com/backend-br/vagas/issues|
 |https://github.com/react-brasil/vagas/issues|
+|https://github.com/vuejs-br/vagas/issues|
 
 ## Rede Sociais
 
