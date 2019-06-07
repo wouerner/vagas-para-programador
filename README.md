@@ -45,6 +45,7 @@ https://www.linkedin.com
 ## Empresas
 
 https://nubank.workable.com/
+https://jobs.kenoby.com/stefanini
 
 
 #link com companias  que aceitam trabalho remoto
