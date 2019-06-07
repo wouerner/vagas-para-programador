@@ -41,6 +41,12 @@ https://www.linkedin.com
 |:----|:------------------- |
 |[hackerrank](https://www.hackerrank.com/dashboard)| Sim  |
 
+
+## Empresas
+
+https://nubank.workable.com/
+
+
 #link com companias  que aceitam trabalho remoto
 https://remoteintech.company/
 
