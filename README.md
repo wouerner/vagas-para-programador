@@ -15,6 +15,7 @@ Objetivo desse repositorio e apenas ser um indice atualizado de onde encotrar va
 |https://www.vulpi.com.br/ | Sim |
 |https://app.revelo.com.br | Sim|
 |https://hipsters.jobs | Não|
+|https://comoequetala.com.br/vagas-e-jobs| Sim|
 
 
 
