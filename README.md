@@ -47,9 +47,9 @@ https://www.linkedin.com
 
 ## Empresas
 
-https://nubank.workable.com/
-https://jobs.kenoby.com/stefanini
-https://codersrank.io/find-a-job/
+[Nubank](https://nubank.workable.com/)  
+[AISTech](https://aistech.bamboohr.com/jobs/view.php?id=35)  
+[Stefanini](https://jobs.kenoby.com/stefanini)  
 
 
 #link com companias  que aceitam trabalho remoto
