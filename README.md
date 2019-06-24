@@ -18,6 +18,7 @@ Objetivo desse repositorio e apenas ser um indice atualizado de onde encotrar va
 |https://app.revelo.com.br | Sim|
 |https://hipsters.jobs | Não|
 |https://comoequetala.com.br/vagas-e-jobs| Sim|
+|https://www.vagas.com.br | Sim |
 
 
 ## Grupos Github
