@@ -11,12 +11,13 @@ Objetivo desse repositorio e apenas ser um indice atualizado de onde encotrar va
 |:----|:------------------- |
 |https://programathor.com.br/ | Sim |
 |https://clickaonline.com/ | Sim |
-|https://www.lovemondays.com.br/| Não|
+|https://www.lovemondays.com.br/| Não |
 |https://www.vulpi.com.br/ | Sim |
+|https://app.revelo.com.br | Sim |
+|https://www.buscojobs.com.br/ | Sim |
 |https://app.revelo.com.br | Sim|
 |https://hipsters.jobs | Não|
 |https://comoequetala.com.br/vagas-e-jobs| Sim|
-
 
 
 ## Grupos Github
